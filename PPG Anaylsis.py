@@ -47,16 +47,3 @@ def footballData():
     data['PPG'] = data['Pts'] / data['Pld'] #Add a Points Per Game coloumn to data
     
     return data
-    
-    
-    
-    
-    
-    
-    
-           
-           
-           
-      
- 
-    
