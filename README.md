@@ -1,5 +1,5 @@
 # Football-Model
-Create a model that will generate realistic looking results of a Football League Table
+Create a model that will generate realistic looking results of a Football League Table, utilising statistical analysis of a sample of Leagues from within UEFA; these being: Premier League, Bundesliga, Serie A, Erevidise, EFL Championship. The League Table data was scrapped from Wikipedia and then collated into the csv file 'All Leagues Final.csv'
 
 ## Points per Game and Match Outcome Analysis
 
