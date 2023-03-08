@@ -11,3 +11,6 @@ The next way to further deepen this analysis would be through seeing how these r
 ## Points per Game and its correlation with other statistics
 
 The 'PPG Correlations.py' file analyises how Points per Game correlates with other statistics, and if there is any causation between statistics.
+
+
+## Match Outcome simulation models/systems
