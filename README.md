@@ -14,3 +14,5 @@ The 'PPG Correlations.py' file analyises how Points per Game correlates with oth
 
 
 ## Match Outcome simulation models/systems
+
+The systems used to generate match outcomes utilises randomness, as I believe this follows that while a football game's result may be heavily baised towards one team the result can still be influenced by random chance. Primarily the models should also reflect the statisitics that have been collected, but should not be overfit to the dataset used.
