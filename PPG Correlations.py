@@ -69,7 +69,7 @@ def ppgCorrelation():
 #Process in data, and automatically add PPG coloumn
 def footballData():
     
-    data = pd.read_csv('All Leagues Final.csv') #Import the selected data
+    data = pd.read_csv('All Leagues 4.csv') #Import the selected data
     data['PPG'] = data['Pts'] / data['Pld'] #Add a Points Per Game coloumn to data
     data['Win%'] = data['W'] / data['Pld'] #Add a Win Percentage coloumn to data
     data['Draw%'] = data['D'] / data['Pld'] #Add a Draw Percentage coloumn to data
